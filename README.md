@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielCarrillo127
-- 👀 I’m interested in Web development and Data analyst
+- 👀 I’m interested in Web development and Data analyst.
 - 🌱 I’m currently learning Vuejs 🦖, Reactjs 🥏 and Flutter 📱.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me **Danielcarrilo12@hotmail.com**
